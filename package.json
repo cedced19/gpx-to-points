@@ -1,0 +1,31 @@
+{
+  "name": "gpx-to-points",
+  "version": "0.0.0",
+  "description": "A module to convert gpx files to a list of point.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cedced19/gpx-to-points.git"
+  },
+  "keywords": [
+    "gpx",
+    "convert",
+    "json",
+    "points"
+  ],
+  "author": "Cédric JUNG <cedced19@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cedced19/gpx-to-points/issues"
+  },
+  "homepage": "https://github.com/cedced19/gpx-to-points#readme",
+  "dependencies": {
+    "xml2js": "^0.4.19"
+  },
+  "devDependencies": {
+    "mocha": "^5.1.0"
+  }
+}
