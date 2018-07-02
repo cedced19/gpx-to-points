@@ -1,6 +1,6 @@
 {
   "name": "gpx-to-points",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A module to convert gpx files to a list of point.",
   "main": "index.js",
   "scripts": {

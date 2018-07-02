@@ -25,7 +25,7 @@ module.exports = function (path, cb) {
                 cb(null, points);
             } else {
                 let err = new Error('This GPX is not valid')
-                cb(err)
+                cb(err);
             }
         });
     })
